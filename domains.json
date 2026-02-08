@@ -1,0 +1,7 @@
+{
+  "example": {
+    "A": ["45.58.159.111"],
+    "CNAME": ["sklad-prolent.github.io"],
+    "MX": ["mx.sklad-prolent.com"]
+  }
+}
